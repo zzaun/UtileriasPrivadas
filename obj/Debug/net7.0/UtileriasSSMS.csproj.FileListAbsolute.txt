@@ -1,0 +1,12 @@
+C:\Users\Alumno\Pictures\Programacion\UtileriasSSMS\bin\Debug\net7.0\UtileriasSSMS.deps.json
+C:\Users\Alumno\Pictures\Programacion\UtileriasSSMS\bin\Debug\net7.0\UtileriasSSMS.dll
+C:\Users\Alumno\Pictures\Programacion\UtileriasSSMS\bin\Debug\net7.0\UtileriasSSMS.pdb
+C:\Users\Alumno\Pictures\Programacion\UtileriasSSMS\obj\Debug\net7.0\UtileriasSSMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Pictures\Programacion\UtileriasSSMS\obj\Debug\net7.0\UtileriasSSMS.AssemblyInfoInputs.cache
+C:\Users\Alumno\Pictures\Programacion\UtileriasSSMS\obj\Debug\net7.0\UtileriasSSMS.AssemblyInfo.cs
+C:\Users\Alumno\Pictures\Programacion\UtileriasSSMS\obj\Debug\net7.0\UtileriasSSMS.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Pictures\Programacion\UtileriasSSMS\obj\Debug\net7.0\UtileriasSSMS.dll
+C:\Users\Alumno\Pictures\Programacion\UtileriasSSMS\obj\Debug\net7.0\refint\UtileriasSSMS.dll
+C:\Users\Alumno\Pictures\Programacion\UtileriasSSMS\obj\Debug\net7.0\UtileriasSSMS.pdb
+C:\Users\Alumno\Pictures\Programacion\UtileriasSSMS\obj\Debug\net7.0\ref\UtileriasSSMS.dll
+C:\Users\Alumno\Pictures\Programacion\UtileriasSSMS\obj\Debug\net7.0\UtileriasSSMS.csproj.AssemblyReference.cache
